@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\bin\Debug\net8.0\UnitySever.exe
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\bin\Debug\net8.0\UnitySever.deps.json
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\bin\Debug\net8.0\UnitySever.runtimeconfig.json
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\bin\Debug\net8.0\UnitySever.dll
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\bin\Debug\net8.0\UnitySever.pdb
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.dll
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\refint\UnitySever.dll
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.pdb
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\UnitySever.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\UnitySever\UnitySever\obj\Debug\net8.0\ref\UnitySever.dll

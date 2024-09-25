@@ -1,0 +1,14 @@
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\bin\Debug\net8.0\BummyClient.exe
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\bin\Debug\net8.0\BummyClient.deps.json
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\bin\Debug\net8.0\BummyClient.runtimeconfig.json
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\bin\Debug\net8.0\BummyClient.dll
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\bin\Debug\net8.0\BummyClient.pdb
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.AssemblyInfoInputs.cache
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.AssemblyInfo.cs
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.csproj.CoreCompileInputs.cache
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.dll
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\refint\BummyClient.dll
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.pdb
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\BummyClient.genruntimeconfig.cache
+C:\Users\YONSAI\source\repos\UnitySever\BummyClient\obj\Debug\net8.0\ref\BummyClient.dll

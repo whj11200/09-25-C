@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|c:\\users\\yonsai\\source\\repos\\unitysever\\severcore\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|solutionrelative:severcore\\lock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|c:\\users\\yonsai\\source\\repos\\unitysever\\severcore\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|solutionrelative:severcore\\mainapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37E7075-71EA-42BC-BD27-3303BF4D8C17}|UnitySever\\UnitySever.csproj|c:\\users\\yonsai\\source\\repos\\unitysever\\unitysever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37E7075-71EA-42BC-BD27-3303BF4D8C17}|UnitySever\\UnitySever.csproj|solutionrelative:unitysever\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|c:\\users\\yonsai\\source\\repos\\unitysever\\severcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{757624E2-3043-452B-B3FC-8533BB94B485}|SeverCore\\SeverCore.csproj|solutionrelative:severcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528F6ABE-330A-4E15-B478-DCBB92962839}|BummyClient\\BummyClient.csproj|c:\\users\\yonsai\\source\\repos\\unitysever\\bummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528F6ABE-330A-4E15-B478-DCBB92962839}|BummyClient\\BummyClient.csproj|solutionrelative:bummyclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lock.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\Lock.cs",
+              "RelativeDocumentMoniker": "SeverCore\\Lock.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\Lock.cs",
+              "RelativeToolTip": "SeverCore\\Lock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:39:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mainapp.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\mainapp.cs",
+              "RelativeDocumentMoniker": "SeverCore\\mainapp.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\mainapp.cs",
+              "RelativeToolTip": "SeverCore\\mainapp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T03:36:37.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\BummyClient\\Program.cs",
+              "RelativeDocumentMoniker": "BummyClient\\Program.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\BummyClient\\Program.cs",
+              "RelativeToolTip": "BummyClient\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:49:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\Program.cs",
+              "RelativeDocumentMoniker": "SeverCore\\Program.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\SeverCore\\Program.cs",
+              "RelativeToolTip": "SeverCore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:49:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\UnitySever\\Program.cs",
+              "RelativeDocumentMoniker": "UnitySever\\Program.cs",
+              "ToolTip": "C:\\Users\\YONSAI\\source\\repos\\UnitySever\\UnitySever\\Program.cs",
+              "RelativeToolTip": "UnitySever\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T02:48:52.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
